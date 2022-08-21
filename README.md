@@ -42,7 +42,7 @@ Your app is ready to be deployed!
 <i>Convert to 100 characters</i>\
 <i>Clear Text</i>\
 <i>Speak</i>\
-<i>Find & Replace</i>\
+<i>Find & Replace</i>
 
 THIS PROJECT HAS ALSO USED PROTOTYPES ALONG WITH PROPS and other features required for making a website more interactive
 
