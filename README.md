@@ -9,7 +9,7 @@ In the project directory, you can run:
 It will actually help you install node_modules according to your react app
 
 ### `npm install`
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
 In the project directory, you can then use:
 
